@@ -1,3 +1,6 @@
+
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 # Gab's RC plane
 
 ## The main idea and plans of the structure
@@ -36,6 +39,8 @@ I used [plans that I made on Canva](https://blueprint.hackclub.com/user-attachme
 
 
 ### You can find more detailled informations on [the journal of the whole project](https://github.com/Gabouin/Gabs-RC-plane/blob/main/journal.md).
+
+
 
 
 
