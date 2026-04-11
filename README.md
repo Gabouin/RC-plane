@@ -3,6 +3,16 @@
 
 # Gab's RC plane
 
+## 📋 Table des matières
+- [À propos](#The)
+- [Caractéristiques](#caractéristiques)
+- [Composants](#composants)
+- [Construction](#construction)
+- [Câblage](#câblage)
+- [Premier vol](#premier-vol)
+- [Galerie](#galerie)
+- [Licence](#licence)
+
 ## The main idea and plans of the structure
 I'm making an RC plane with styrofoam and some parts will be 3d printed. I will use servo motors, batteries, a transmitter , a receiver, a brushless motor, a propeller, a motor controller and a lot of wires and connectors.    
 
