@@ -27,8 +27,10 @@ Flight demo: [YouTube short](https://youtube.com/shorts/v7-GCenTMmM)
 
 ## Design resources
 
-- Initial blueprint concept: [Canva PDF plan](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMwMjgsInB1ciI6ImJsb2JfaWQifX0=--e8056efed682603be2c0ef0acb647683[...]
+- Initial blueprint concept: [Canva PDF plan](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMwMjgsInB1ciI6ImJsb2JfaWQifX0=--e8056efed682603be2c0ef0acb6476836d1cb8ba/SPIT%20G%2001%20(1).pdf)
+
 - STEP model preview file: [`CAD/RC plane.step`](./CAD/RC%20plane.step)
+
 
 ## 3D model previews
 
