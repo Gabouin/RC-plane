@@ -1,9 +1,24 @@
-# RC Plane Project
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Project](https://img.shields.io/badge/Project-Hardware-informational)
+![Project](https://img.shields.io/badge/Project-Hardware-green.svg)
+![Series](https://img.shields.io/badge/Series-APX-red.svg)
 
-A student-built RC plane made from foamboard, 3D-printed parts, and off-the-shelf electronics.
+<table>
+  <tr>
+    <td width="17%">
+      <img width="423" height="496" alt="gabin rc plane" src="https://github.com/user-attachments/assets/57f90610-1dbe-4b27-a98d-a521fc818e2a" />
+    </td>
+    <td>
+      <h1>APX 
+        RC PLANE</h1>
+      <p>
+       A student-built RC plane made from foamboard, 3D-printed parts, and off-the-shelf electronics.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 
 ## Overview
 
