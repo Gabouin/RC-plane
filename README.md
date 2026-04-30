@@ -1,6 +1,6 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Project](https://img.shields.io/badge/Project-Hardware-green.svg)
+![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
 ![Series](https://img.shields.io/badge/Series-APX-red.svg)
 
 <table>
